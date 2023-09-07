@@ -43,123 +43,35 @@
         <a href="https://github.com/Club-PARD/HGU-Student-Union-server"> HGU-StudentUnion </a>
     - [DL] 한동대학교 총학생회 웹 서비스
     </div>
-	<div>
-    	역할 : Back-End Developer
-		<br>
-	기술 : 
- <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white" />
-	<img src="https://img.shields.io/badge/JPA-6DB33F?style=plastic&logo=spring&logoColor=black" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MYSQL&logoColor=white" />
- <img src="https://img.shields.io/badge/REACT-61DAFB?style=plastic&logo=REACT&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-1572B6?style=plastic&logo=nodedotjs&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" />
- 	    <img src="https://img.shields.io/badge/Axios-5A29E4?style=plastic&logo=axios&logoColor=white" />
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white" />
-	<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
-		    </div>
         <hr>
     <div>
     2022.09.01 ~ 2022.10.01 
         <a href="https://github.com/DREAMLANDTHON/BingBong_Server"> Warden </a>
     - [DL] AI 보안관 채팅서비스
-	    </div>
-	<div>
-    	역할 : Develop Leader
-		<br>
-	기술 : 
-		    <img src="https://img.shields.io/badge/WebSocket-E34F26?style=plastic&&logoColor=white" />
-		<img src="https://img.shields.io/badge/Stomp-lightgrey?style=plastic&&logoColor=white" />
-		<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white" />
-	<img src="https://img.shields.io/badge/JPA-6DB33F?style=plastic&logo=spring&logoColor=black" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MYSQL&logoColor=white" />
- <img src="https://img.shields.io/badge/REACT-61DAFB?style=plastic&logo=REACT&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-1572B6?style=plastic&logo=nodedotjs&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" />
- 	    <img src="https://img.shields.io/badge/Axios-5A29E4?style=plastic&logo=axios&logoColor=white" />
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white" />
-	<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
-    </div>
     </div>
         <hr>
     <div>
     2022.09.01 ~ 2022.10.01 
         <a href="https://github.com/Hanspace23/hanspace_server"> HanSpace </a>
     - 공간 대여 플랫폼 서비스
-	    <div>
-    	역할 : Full Stack Developer
-		<br>
-	기술 :
-		     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white" />
-	<img src="https://img.shields.io/badge/JPA-6DB33F?style=plastic&logo=spring&logoColor=black" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MYSQL&logoColor=white" />
- <img src="https://img.shields.io/badge/REACT-61DAFB?style=plastic&logo=REACT&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-1572B6?style=plastic&logo=nodedotjs&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" />
- 	    <img src="https://img.shields.io/badge/Axios-5A29E4?style=plastic&logo=axios&logoColor=white" />
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white" />
-	<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
-    </div>
     </div>
         <hr>
     <div>
     2022.09.01 ~ 2022.10.01 
         <a href="https://github.com/NORITHON/GreenPoint-server"> GreenPoint </a>
     - [PL] 친환경 포인트 적립 및 결제 시스템
-	    <div>
-    	역할 : Project Leader
-		<br>
-	기술 :
-		     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white" />
-	<img src="https://img.shields.io/badge/JPA-6DB33F?style=plastic&logo=spring&logoColor=black" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MYSQL&logoColor=white" />
- <img src="https://img.shields.io/badge/REACT-61DAFB?style=plastic&logo=REACT&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-1572B6?style=plastic&logo=nodedotjs&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" />
- 	    <img src="https://img.shields.io/badge/Axios-5A29E4?style=plastic&logo=axios&logoColor=white" />
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white" />
-	<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
-    </div>
     </div>
         <hr>
     <div>
     2022.09.01 ~ 2022.10.01 
         <a href="https://github.com/HisDaangn/daangun_server"> DaangnWebClone </a>
     - [PL] 당근마켓 클론코딩
-	    <div>
-    	역할 : Project Leader
-		<br>
-	기술 : 
-		     <img src="https://img.shields.io/badge/WebSocket-E34F26?style=plastic&&logoColor=white" />
-		<img src="https://img.shields.io/badge/Stomp-lightgrey?style=plastic&&logoColor=white" />
-		<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white" />
-	<img src="https://img.shields.io/badge/JPA-6DB33F?style=plastic&logo=spring&logoColor=black" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MYSQL&logoColor=white" />
- <img src="https://img.shields.io/badge/REACT-61DAFB?style=plastic&logo=REACT&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-1572B6?style=plastic&logo=nodedotjs&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" />
- 	    <img src="https://img.shields.io/badge/Axios-5A29E4?style=plastic&logo=axios&logoColor=white" />
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white" />
-	<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
-    </div>
     </div>
         <hr>
     <div>
     2022.09.01 ~ 2022.10.01 
         <a href="https://github.com/HisPath/HisPath-Server"> HisPath </a>
     - 교육역량 평가 및 마일스톤 서비스
-	    <div>
-    	역할 : Full Stack Developer
-		<br>
-	기술 : 
-		     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white" />
-	<img src="https://img.shields.io/badge/JPA-6DB33F?style=plastic&logo=spring&logoColor=black" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MYSQL&logoColor=white" />
- <img src="https://img.shields.io/badge/REACT-61DAFB?style=plastic&logo=REACT&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-1572B6?style=plastic&logo=nodedotjs&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" />
- 	    <img src="https://img.shields.io/badge/Axios-5A29E4?style=plastic&logo=axios&logoColor=white" />
-	<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
-    </div>
     </div>
         <hr>
 
