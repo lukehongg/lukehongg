@@ -26,8 +26,8 @@
 </div>
 <div align="center">
 	    <img src="https://img.shields.io/badge/WebSocket-E34F26?style=plastic&&logoColor=white" />
+		<img src="https://img.shields.io/badge/Stomp-grey?style=plastic&&logoColor=white" />
 	    <img src="https://img.shields.io/badge/Axios-5A29E4?style=plastic&logo=axios&logoColor=white" />
-	<img src="https://img.shields.io/badge/Stomp-grey?style=plastic&&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
     
