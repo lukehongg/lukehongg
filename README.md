@@ -3,10 +3,10 @@
 ### Skills
 
 <div align="center">
-	<img src="https://img.shields.io/badge/springboot-6DB33F?style=platic&logo=SpringBoot&logoColor=white" />
-	<img src="https://img.shields.io/badge/JPA-6DB33F?style=platic&logo=JPA&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=platic&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=platic&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white" />
+	<img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=black" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
 </div>
 
 
