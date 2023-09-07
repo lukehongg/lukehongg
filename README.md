@@ -39,6 +39,10 @@
         <a href="https://github.com/Club-PARD/HGU-Student-Union-server"> HGU-StudentUnion </a>
     - [DL] 한동대학교 총학생회 웹 서비스
     </div>
+	<div>
+    	역할 : Back-End Develop Leader
+	기술 : Spring Boot, JPA, JWT, AWS EC2, AWS S3, AWS RDS
+    </div>
         <hr>
     <div>
     2022.09.01 ~ 2022.10.01 
