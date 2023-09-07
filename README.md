@@ -41,6 +41,7 @@
     </div>
 	<div>
     	역할 : Back-End Develop Leader
+		<br>
 	기술 : Spring Boot, JPA, JWT, AWS EC2, AWS S3, AWS RDS
     </div>
         <hr>
