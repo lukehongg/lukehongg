@@ -57,7 +57,7 @@
 	<div>
     	역할 : Develop Leader
 		<br>
-	기술 : WebSocket & Stomp, Spring Boot, JPA, AWS S3
+	기술 : WebSocket & Stomp, Spring Boot, JPA, Axios, AWS S3
     </div>
     </div>
         <hr>
@@ -68,7 +68,7 @@
 	    <div>
     	역할 : Full Stack Developer
 		<br>
-	기술 : React, NodeJS, Spring Boot, JPA
+	기술 : React, NodeJS, Axios, Spring Boot, JPA, AWS S3
     </div>
     </div>
         <hr>
@@ -76,18 +76,33 @@
     2022.09.01 ~ 2022.10.01 
         <a href="https://github.com/NORITHON/GreenPoint-server"> GreenPoint </a>
     - [PL] 친환경 포인트 적립 및 결제 시스템
+	    <div>
+    	역할 : Project Leader
+		<br>
+	기술 : React, NodeJS, Axios, Spring Boot, JPA, AWS S3
+    </div>
     </div>
         <hr>
     <div>
     2022.09.01 ~ 2022.10.01 
         <a href="https://github.com/HisDaangn/daangun_server"> DaangnWebClone </a>
     - [PL] 당근마켓 클론코딩
+	    <div>
+    	역할 : Project Leader
+		<br>
+	기술 : WebSocket & Stomp, Spring Boot, JPA, AWS S3, React, NodeJS, Axios
+    </div>
     </div>
         <hr>
     <div>
     2022.09.01 ~ 2022.10.01 
         <a href="https://github.com/HisPath/HisPath-Server"> HisPath </a>
     - 교육역량 평가 및 마일스톤 서비스
+	    <div>
+    	역할 : Full Stack Developer
+		<br>
+	기술 : Spring Boot, JPA, AWS S3, React, NodeJS, Axios
+    </div>
     </div>
         <hr>
 
