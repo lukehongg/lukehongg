@@ -55,7 +55,7 @@
     <div>
     2022.09.01 ~ 2022.10.01 
         <a href="https://github.com/NORITHON/GreenPoint-server"> GreenPoint </a>
-    - [PL] 휴대용 키오스크 플랫폼
+    - [PL] 친환경 포인트 적립 및 결제 시스템
     </div>
         <hr>
     <div>
