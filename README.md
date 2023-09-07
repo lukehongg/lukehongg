@@ -32,7 +32,7 @@
 </div>
 
 ### 📝 Projects
-
+<hr>
 <div align="left">
     <div>
     2022.09.01 ~ 2022.10.01
