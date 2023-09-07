@@ -29,6 +29,9 @@
 	<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Stomp-grey?style=plastic&&logoColor=white" />
     <img src="https://img.shields.io/badge/WebSocket-E34F26?style=plastic&&logoColor=white" />
+    <img src="https://img.shields.io/badge/Axios-5A29E4?style=plastic&logo=axios&logoColor=white" />
+
+	
 </div>
 
 ### 📝 Projects
@@ -42,19 +45,30 @@
 	<div>
     	역할 : Back-End Develop Leader
 		<br>
-	기술 : Spring Boot, JPA, JWT, AWS EC2, AWS S3, AWS RDS
+	기술 : Spring Boot, JPA, Axios, JWT, AWS EC2, AWS S3, AWS RDS
     </div>
         <hr>
     <div>
     2022.09.01 ~ 2022.10.01 
         <a href="https://github.com/DREAMLANDTHON/BingBong_Server"> Warden </a>
     - [DL] AI 보안관 채팅서비스
+	    </div>
+	<div>
+    	역할 : Develop Leader
+		<br>
+	기술 : WebSocket & Stomp, Spring Boot, JPA, AWS S3
+    </div>
     </div>
         <hr>
     <div>
     2022.09.01 ~ 2022.10.01 
         <a href="https://github.com/Hanspace23/hanspace_server"> HanSpace </a>
     - 공간 대여 플랫폼 서비스
+	    <div>
+    	역할 : Full Stack Developer
+		<br>
+	기술 : React, NodeJS, Spring Boot, JPA
+    </div>
     </div>
         <hr>
     <div>
