@@ -1,14 +1,91 @@
-### Hi there 👋
-
-### Skills
+### 🖥 Profession
 
 <div align="center">
-	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white" />
-	<img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=black" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+안녕하세요 Full-Stack 개발자 lukehongg 입니다
+</div>
+<br>
+<!-- ### 🕹 Stack -->
+
+<div align="center">
+<img src="https://img.shields.io/badge/Skillful-black?style=for-the-badge&logoColor=white" />
 </div>
 
+<div align="center">
+	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white" />
+	<img src="https://img.shields.io/badge/JPA-6DB33F?style=plastic&logo=spring&logoColor=black" />
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MYSQL&logoColor=white" />
+</div>
+<div align="center">
+    <img src="https://img.shields.io/badge/REACT-61DAFB?style=plastic&logo=REACT&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-1572B6?style=plastic&logo=nodedotjs&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" />
+</div>
+</br>
+<div align="center">
+<img src="https://img.shields.io/badge/Knowledgable-black?style=for-the-badge&logoColor=white" />
+</div>
+<div align="center">
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Stomp-grey?style=plastic&&logoColor=white" />
+    <img src="https://img.shields.io/badge/WebSocket-E34F26?style=plastic&&logoColor=white" />
+</div>
+
+### 📝 Projects
+
+<div align="left">
+    <div>
+    2022.09.01 ~ 2022.10.01
+        <a href="https://github.com/Club-PARD/HGU-Student-Union-server"> HGU-StudentUnion </a>
+    - [DL] 한동대학교 총학생회 웹 서비스
+    </div>
+        <hr>
+    <div>
+    2022.09.01 ~ 2022.10.01 
+        <a href="https://github.com/DREAMLANDTHON/BingBong_Server"> Warden </a>
+    - [DL] AI 보안관 채팅서비스
+    </div>
+        <hr>
+    <div>
+    2022.09.01 ~ 2022.10.01 
+        <a href="https://github.com/Hanspace23/hanspace_server"> HanSpace </a>
+    - 공간 대여 플랫폼 서비스
+    </div>
+        <hr>
+    <div>
+    2022.09.01 ~ 2022.10.01 
+        <a href="https://github.com/NORITHON/GreenPoint-server"> GreenPoint </a>
+    - [PL] 휴대용 키오스크 플랫폼
+    </div>
+        <hr>
+    <div>
+    2022.09.01 ~ 2022.10.01 
+        <a href="https://github.com/HisDaangn/daangun_server"> DaangnWebClone </a>
+    - [PL] 당근마켓 클론코딩
+    </div>
+        <hr>
+    <div>
+    2022.09.01 ~ 2022.10.01 
+        <a href="https://github.com/HisPath/HisPath-Server"> HisPath </a>
+    - 교육역량 평가 및 마일스톤 서비스
+    </div>
+        <hr>
+
+</div>
+<br>
+
+### 🎥 Videos
+
+<div align="left">
+    <div>
+        [최우수상] 교내 교육영상 UCC 공모전 👉
+        <a href="https://www.youtube.com/watch?v=zNrIS1d80Qw">C so EZ</a>
+    </div>
+    <div>
+        [교내활동] 소프트웨어 중심대학사업단 뉴스진행 👉
+        <a href="https://www.youtube.com/watch?v=bazvgcJfzCY">소중대 뉴스</a>    
+    </div>
+<div>
 
 <!--
 **lukehongg/lukehongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
