@@ -44,7 +44,7 @@
     - [DL] 한동대학교 총학생회 웹 서비스
     </div>
 	<div>
-    	역할 : Back-End Develop Leader
+    	역할 : Back-End Developer
 		<br>
 	기술 : 
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white" />
