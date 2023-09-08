@@ -22,13 +22,12 @@
 </div>
 <div align="center">
     <img src="https://img.shields.io/badge/REACT-61DAFB?style=plastic&logo=REACT&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-1572B6?style=plastic&logo=nodedotjs&logoColor=white" />
+	    <img src="https://img.shields.io/badge/Axios-5A29E4?style=plastic&logo=axios&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" />
 </div>
 <div align="center">
 	    <img src="https://img.shields.io/badge/WebSocket-E34F26?style=plastic&&logoColor=white" />
 		<img src="https://img.shields.io/badge/Stomp-lightgrey?style=plastic&&logoColor=white" />
-	    <img src="https://img.shields.io/badge/Axios-5A29E4?style=plastic&logo=axios&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
     
