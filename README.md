@@ -15,14 +15,15 @@
 	<img src="https://img.shields.io/badge/JPA-6DB33F?style=plastic&logo=spring&logoColor=black" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MYSQL&logoColor=white" />
 </div>
+
+</br>
+<div align="center">
+<img src="https://img.shields.io/badge/Knowledgable-black?style=for-the-badge&logoColor=white" />
+</div>
 <div align="center">
     <img src="https://img.shields.io/badge/REACT-61DAFB?style=plastic&logo=REACT&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-1572B6?style=plastic&logo=nodedotjs&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" />
-</div>
-</br>
-<div align="center">
-<img src="https://img.shields.io/badge/Knowledgable-black?style=for-the-badge&logoColor=white" />
 </div>
 <div align="center">
 	    <img src="https://img.shields.io/badge/WebSocket-E34F26?style=plastic&&logoColor=white" />
