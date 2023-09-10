@@ -47,13 +47,13 @@
     <div>
     2023.07.27 ~ 2023.07.29 
         <a href="https://github.com/DREAMLANDTHON/BingBong_Server"> Warden </a>
-    - [DL] AI 보안관 채팅서비스
+    - [우수상] AI 보안관 채팅서비스
     </div>
         <hr>
     <div>
     2023.02.28 ~ 2022.06.01 
         <a href="https://github.com/Hanspace23/hanspace_server"> HanSpace </a>
-    - 공간 대여 플랫폼 서비스
+    - [인기상] 공간 대여 플랫폼 서비스
     </div>
         <hr>
     <div>
