@@ -41,7 +41,7 @@
     <div>
     2023.05.26 ~ 진행중
         <a href="https://github.com/Club-PARD/HGU-Student-Union-server"> HGU-StudentUnion </a>
-    - [DL] 한동대학교 총학생회 웹 서비스
+    - (DL) 한동대학교 총학생회 웹 서비스
     </div>
         <hr>
     <div>
@@ -59,13 +59,13 @@
     <div>
     2023.01.26 ~ 2023.01.28 
         <a href="https://github.com/NORITHON/GreenPoint-server"> GreenPoint </a>
-    - [PL] 친환경 포인트 적립 및 결제 시스템
+    - (PL) 친환경 포인트 적립 및 결제 시스템
     </div>
         <hr>
     <div>
     2022.12.29 ~ 2023.01.19 
         <a href="https://github.com/HisDaangn/daangun_server"> DaangnWebClone </a>
-    - [PL] 당근마켓 클론코딩
+    - (PL) 당근마켓 클론코딩
     </div>
         <hr>
     <div>
