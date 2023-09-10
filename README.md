@@ -39,37 +39,37 @@
 <hr>
 <div align="left">
     <div>
-    2022.09.01 ~ 2022.10.01
+    2023.05.26 ~ 진행중
         <a href="https://github.com/Club-PARD/HGU-Student-Union-server"> HGU-StudentUnion </a>
     - [DL] 한동대학교 총학생회 웹 서비스
     </div>
         <hr>
     <div>
-    2022.09.01 ~ 2022.10.01 
+    2023.07.27 ~ 2023.07.29 
         <a href="https://github.com/DREAMLANDTHON/BingBong_Server"> Warden </a>
     - [DL] AI 보안관 채팅서비스
     </div>
         <hr>
     <div>
-    2022.09.01 ~ 2022.10.01 
+    2023.02.28 ~ 2022.06.01 
         <a href="https://github.com/Hanspace23/hanspace_server"> HanSpace </a>
     - 공간 대여 플랫폼 서비스
     </div>
         <hr>
     <div>
-    2022.09.01 ~ 2022.10.01 
+    2023.01.26 ~ 2023.01.28 
         <a href="https://github.com/NORITHON/GreenPoint-server"> GreenPoint </a>
     - [PL] 친환경 포인트 적립 및 결제 시스템
     </div>
         <hr>
     <div>
-    2022.09.01 ~ 2022.10.01 
+    2022.12.29 ~ 2023.01.19 
         <a href="https://github.com/HisDaangn/daangun_server"> DaangnWebClone </a>
     - [PL] 당근마켓 클론코딩
     </div>
         <hr>
     <div>
-    2022.09.01 ~ 2022.10.01 
+    2022.09.15 ~ 2022.12.01 
         <a href="https://github.com/HisPath/HisPath-Server"> HisPath </a>
     - 교육역량 평가 및 마일스톤 서비스
     </div>
