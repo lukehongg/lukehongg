@@ -39,9 +39,11 @@
 <hr>
 <div align="left">
     <div>
-    2023.05.26 ~ 진행중
+    2023.05.26 ~ 2023.09.30
         <a href="https://github.com/Club-PARD/HGU-Student-Union-server"> HGU-StudentUnion </a>
     - (DL) 한동대학교 총학생회 웹 서비스
+	    <br>
+	    <a href="https://stu.handong.edu">총학생회 웹사이트 이동</a>a>
     </div>
         <hr>
     <div>
