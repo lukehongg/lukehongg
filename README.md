@@ -45,7 +45,7 @@
    </div>
      <br />
      <div>
-      <a href="https://stu.handong.edu"  target="_blank">총학생회 웹사이트 이동</a>
+      <a href="https://stu.handong.edu"  target="_blank">https://stu.handong.edu</a>
      </div>
         <hr>
     <div>
