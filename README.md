@@ -45,7 +45,7 @@
    </div>
      <br />
 	<div>
-      <a href="https://stu.handong.edu](https://velog.io/@lukehongg/%EC%B4%9D%ED%95%99%EC%83%9D%ED%9A%8C-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B0%9C%EB%B0%9C-1" target="_blank">개발정리 Velog</a>
+      <a href="https://velog.io/@lukehongg/%EC%B4%9D%ED%95%99%EC%83%9D%ED%9A%8C-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B0%9C%EB%B0%9C-1" target="_blank">개발정리 Velog</a>
      </div>
      <div>
       <a href="https://stu.handong.edu"  target="_blank">https://stu.handong.edu</a>
