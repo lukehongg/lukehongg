@@ -35,7 +35,7 @@
 	
 </div>
 <div align="center">
-	📗<a href="https://velog.io/@lukehongg" target="_blank" style="text-decoration:none" color="green" >velog</a>
+	📗<a href="https://velog.io/@lukehongg" target="_blank" text-decoration="none" color="green" >velog</a>
 
 </div>
 
