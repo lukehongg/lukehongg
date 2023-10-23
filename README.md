@@ -47,12 +47,15 @@
         <a href="https://github.com/Club-PARD/HGU-Student-Union-server"> HGU-StudentUnion </a>
     - (DL) 한동대학교 총학생회 웹 서비스 
    </div>
-     <br />
 	
+     <br />
+     
      <div>
-      <a href="https://stu.handong.edu"  target="_blank">한동대학교 총학생회</a>
+	<a href="https://stu.handong.edu"  target="_blank">한동대학교 총학생회</a>
      </div>
-        <hr>
+	
+<hr>
+
     <div>
     2023.07.27 ~ 2023.07.29 
         <a href="https://github.com/DREAMLANDTHON/BingBong_Server"> Warden </a>
