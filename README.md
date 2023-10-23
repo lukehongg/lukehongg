@@ -32,7 +32,7 @@
 	<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
     
 
-	
+
 </div>
 <div align="center">
 	📗<a style="text-decoration:none" href="https://velog.io/@lukehongg" target="_blank">velog</a>
@@ -46,16 +46,9 @@
 	2023.05.26 ~ 2023.09.30
         <a href="https://github.com/Club-PARD/HGU-Student-Union-server"> HGU-StudentUnion </a>
     - (DL) 한동대학교 총학생회 웹 서비스 <br />
-     <div>
-	<a href="https://stu.handong.edu" target="_blank">한동대학교 총학생회</a>
-     </div>
-     
+     <a href="https://stu.handong.edu" target="_blank">한동대학교 총학생회</a>
     </div>
-	
-     
-	
 <hr>
-
     <div>
     2023.07.27 ~ 2023.07.29 
         <a href="https://github.com/DREAMLANDTHON/BingBong_Server"> Warden </a>
