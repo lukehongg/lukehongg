@@ -69,12 +69,6 @@
     </div>
         <hr>
     <div>
-    2022.12.29 ~ 2023.01.19 
-        <a href="https://github.com/HisDaangn/daangun_server"> DaangnWebClone </a>
-    - (PL) 당근마켓 클론코딩
-    </div>
-        <hr>
-    <div>
     2022.09.15 ~ 2022.12.01 
         <a href="https://github.com/HisPath/HisPath-Server"> HisPath </a>
     - 교육역량 평가 및 마일스톤 서비스
